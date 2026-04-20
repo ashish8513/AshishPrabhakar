@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Prabhakar 👋
 
-📍 **India** | ⚙️ **Full Stack Developer** | 📱 **App Developer** | 🤝 **Open Source Contributor**
+📍 **India** | **Full Stack Developer** | **App Developer** | 🤝 **Open Source Contributor**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-> Building web and mobile apps with the **MERN** stack and **React Native**. Diving deeper into **machine learning** and **cyber security**.
+> Deep in vibe-coding mode – building AI-powered developer tools at light speed. Building with modern full-stack tools feels refreshingly fast and expressive
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Native+Developer;Passionate+about+Web+%26+App+Development" alt="Typing animation" />
