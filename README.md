@@ -106,14 +106,6 @@ Best work lives in my **pinned repositories** on GitHub. Add 3–5 bullets here 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8513&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
 </p>
 
----
-
-## LeetCode
-
-[![LeetCode stats](https://leetcode.card.workers.dev/ashish8513?theme=dark&font=&extension=activity)](https://leetcode.com/ashish8513/)
-
----
-
 ## Contribution snake
 
 <p align="center">
