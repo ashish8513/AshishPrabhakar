@@ -13,10 +13,10 @@
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=ashish8513&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-  <a href="https://www.linkedin.com/in/ashish-prabhakar-42791324b/">
+  <a href="https://www.linkedin.com/in/ashishprabhakar2004/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/MqwcPs5N">
+  <a href="https://discord.gg/ashish_8513">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:ashishprabhakar1010@gmail.com">
@@ -156,7 +156,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ashish-prabhakar-42791324b/">
+<a href="https://www.linkedin.com/in/ashishprabhakar2004/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
@@ -164,7 +164,7 @@
   <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://discord.gg/MqwcPs5N">
+<a href="https://discord.gg/ashish_8513">
   <img src="https://img.shields.io/badge/Join_my_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
